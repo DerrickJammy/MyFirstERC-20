@@ -1,0 +1,19 @@
+Proxy contract_
+0x9bC6ED49463b77fd98C035DB6f9b4c9E3fd1a15D
+
+Successfully submitted source code for contract
+contracts/MyERC20UpgradebleV1.sol:MyERC20UpgradebleV1 at 0xd221984a7dAb790c0262176858e13737cC52c308
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract MyERC20UpgradebleV1 on Etherscan.
+https://rinkeby.etherscan.io/address/0xd221984a7dAb790c0262176858e13737cC52c308#code
+Verifying proxy: 0x9bC6ED49463b77fd98C035DB6f9b4c9E3fd1a15D
+Contract at 0x9bC6ED49463b77fd98C035DB6f9b4c9E3fd1a15D already verified.
+Linking proxy 0x9bC6ED49463b77fd98C035DB6f9b4c9E3fd1a15D with implementation
+Successfully linked proxy to implementation.
+Verifying proxy admin: 0x20A4021a132b75Ee785Dad74DFcBF65D3744404B
+Contract at 0x20A4021a132b75Ee785Dad74DFcBF65D3744404B already verified.
+
+Proxy fully verified.
+
+  
